@@ -30,5 +30,5 @@ You can download the dataset from https://www.kaggle.com/datasets/prahladmehandi
 
 
 
-Results
+## Results
 The ensemble model achieves an accuracy of 95.22% on the SipakMed dataset with a train-test split ratio of 70-30, outperforming several existing methods for cervical cancer classification. The dynamic weighted ensemble method successfully combines the strengths of Swin Transformer, ViT, and ResNet50, resulting in robust performance.
